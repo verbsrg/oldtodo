@@ -1,0 +1,21 @@
+.button {
+    border-radius: 5px;
+    padding: 8px 20px;
+    cursor: pointer;
+    background-color: #F1F6F9;
+}
+
+.button_red {
+    border: 1px solid red;
+    color: darkred;
+}
+
+.button_orange {
+    border: 1px solid orange;
+    color: darkorange;
+}
+
+.button_blue {
+    border: 1px solid blue;
+    color: darkblue;
+}
